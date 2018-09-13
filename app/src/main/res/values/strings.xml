@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">GG</string>
+
+    <string name="base_weather_url">http://api.openweathermap.org/</string>
+    <string name="units">metric</string>
+    <string name="app_id">70fdf66c2892b6b23e1f0989a550d3f3</string>
+
+    <string name="forecast">Прогноз</string>
+    <string name="forecast_three_days">3 дня</string>
+    <string name="forecast_seven_days">7 дней</string>
+    <string name="pay_message">Прогноз доступен только в премиум-версии</string>
+    <string name="forecast_title">Прогноз погоды в городе</string>
+
+    <string name="empty_date">Не удалось получить данные о погоде</string>
+
+    <!-- -->
+    <string name="thunderstorm_with_light_rain">Гроза, небольшой дождь</string>
+    <string name="thunderstorm_with_rain">Дождь, гроза</string>
+    <string name="thunderstorm_with_heavy_rain">Сильный дождь, гроза</string>
+    <string name="light_thunderstorm">Небольшая гроза</string>
+    <string name="thunderstorm">Гроза</string>
+    <string name="heavy_thunderstorm">Сильная гроза</string>
+    <string name="ragged_thunderstorm">Временами гроза</string>
+    <string name="thunderstorm_with_light_drizzle">Гроза с легкой моросью</string>
+    <string name="thunderstorm_with_drizzle">Гроза с изморозью</string>
+    <string name="thunderstorm_with_heavy_drizzle">Гроза с сильной моросью</string>
+
+    <string name="light_intensity_drizzle">Легкая морось</string>
+    <string name="drizzle">Изморозь</string>
+    <string name="heavy_intensity_drizzle">Сильная морось</string>
+    <string name="light_intensity_drizzle_rain">Легкая морось с дождём</string>
+    <string name="drizzle_rain">Дождь с моросью</string>
+    <string name="heavy_intensity_drizzle_rain">Сильный дождь с моросью</string>
+    <string name="shower_rain_and_drizzle">Ливень с моросью</string>
+    <string name="heavy_shower_rain_and_drizzle">Тропический ливень с моросью</string>
+    <string name="shower_drizzle">Кратковременная морось</string>
+
+    <string name="light_rain">Лёгкий дождь</string>
+    <string name="moderate_rain">Умеренный дождь</string>
+    <string name="heavy_intensity_rain">Сильный дождь</string>
+    <string name="very_heavy_rain">Очень сильный дождь</string>
+    <string name="extreme_rain">Экстремальный дождь</string>
+    <string name="freezing_rain">Ледяной дождь</string>
+    <string name="light_intensity_shower_rain">Лёгкий кратковременный дождь</string>
+    <string name="shower_rain">Кратковременный дождь</string>
+    <string name="heavy_intensity_shower_rain">Сильный кратковременный дождь</string>
+    <string name="ragged_shower_rain">Местами кратковременный дождь</string>
+
+    <string name="light_snow">Лёгкий снег</string>
+    <string name="snow">Снег</string>
+    <string name="heavy_snow">Сильный снег</string>
+    <string name="sleet">Снег с дождём</string>
+    <string name="shower_sleet">Временами снег с дождём</string>
+    <string name="light_rain_and_snow">Лёгкий дождь и снег</string>
+    <string name="rain_and_snow">Дождь и снег</string>
+    <string name="light_shower_snow">Временами лёгкий снег</string>
+    <string name="shower_snow">Временами снег</string>
+    <string name="heavy_shower_snow">Временами сильный снег</string>
+
+    <string name="mist">Туман</string>
+    <string name="smoke">Дым</string>
+    <string name="haze">Дымка</string>
+    <string name="sand_dust_whirls">Песок, пыльные вихри</string>
+    <string name="fog">Густой туман</string>
+    <string name="sand">Песок</string>
+    <string name="dust">Пыль</string>
+    <string name="volcanic_ash">Вулканический пепел</string>
+    <string name="squalls">Вихри</string>
+    <string name="tornado">Торнадо</string>
+
+    <string name="clear_sky">Ясно</string>
+    <string name="few_clouds">Небольшая облачность</string>
+    <string name="scattered_clouds">Рассеянные облака</string>
+    <string name="broken_clouds">Разрозненные облака</string>
+    <string name="overcast_clouds">Облачно</string>
+
+
+</resources>
